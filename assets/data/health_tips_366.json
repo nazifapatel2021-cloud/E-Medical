@@ -1,0 +1,3296 @@
+[
+  {
+    "day_of_year": 1,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 2,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 3,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 4,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 5,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 6,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 7,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 8,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 9,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 10,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 11,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 12,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 13,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 14,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 15,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 16,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 17,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 18,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 19,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 20,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 21,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 22,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 23,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 24,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 25,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 26,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 27,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 28,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 29,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 30,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 31,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 32,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 33,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 34,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 35,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 36,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 37,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 38,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 39,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 40,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 41,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 42,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 43,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 44,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 45,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 46,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 47,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 48,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 49,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 50,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 51,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 52,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 53,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 54,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 55,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 56,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 57,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 58,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 59,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 60,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 61,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 62,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 63,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 64,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 65,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 66,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 67,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 68,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 69,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 70,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 71,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 72,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 73,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 74,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 75,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 76,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 77,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 78,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 79,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 80,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 81,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 82,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 83,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 84,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 85,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 86,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 87,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 88,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 89,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 90,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 91,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 92,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 93,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 94,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 95,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 96,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 97,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 98,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 99,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 100,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 101,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 102,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 103,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 104,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 105,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 106,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 107,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 108,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 109,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 110,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 111,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 112,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 113,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 114,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 115,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 116,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 117,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 118,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 119,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 120,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 121,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 122,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 123,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 124,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 125,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 126,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 127,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 128,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 129,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 130,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 131,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 132,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 133,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 134,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 135,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 136,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 137,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 138,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 139,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 140,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 141,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 142,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 143,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 144,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 145,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 146,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 147,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 148,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 149,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 150,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 151,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 152,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 153,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 154,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 155,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 156,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 157,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 158,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 159,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 160,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 161,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 162,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 163,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 164,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 165,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 166,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 167,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 168,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 169,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 170,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 171,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 172,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 173,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 174,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 175,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 176,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 177,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 178,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 179,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 180,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 181,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 182,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 183,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 184,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 185,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 186,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 187,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 188,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 189,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 190,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 191,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 192,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 193,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 194,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 195,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 196,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 197,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 198,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 199,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 200,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 201,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 202,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 203,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 204,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 205,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 206,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 207,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 208,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 209,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 210,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 211,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 212,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 213,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 214,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 215,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 216,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 217,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 218,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 219,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 220,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 221,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 222,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 223,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 224,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 225,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 226,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 227,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 228,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 229,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 230,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 231,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 232,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 233,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 234,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 235,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 236,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 237,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 238,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 239,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 240,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 241,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 242,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 243,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 244,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 245,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 246,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 247,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 248,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 249,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 250,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 251,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 252,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 253,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 254,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 255,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 256,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 257,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 258,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 259,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 260,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 261,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 262,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 263,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 264,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 265,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 266,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 267,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 268,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 269,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 270,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 271,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 272,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 273,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 274,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 275,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 276,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 277,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 278,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 279,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 280,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 281,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 282,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 283,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 284,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 285,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 286,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 287,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 288,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 289,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 290,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 291,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 292,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 293,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 294,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 295,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 296,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 297,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 298,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 299,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 300,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 301,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 302,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 303,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 304,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 305,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 306,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 307,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 308,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 309,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 310,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 311,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 312,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 313,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 314,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 315,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 316,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 317,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 318,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 319,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 320,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 321,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 322,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 323,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 324,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 325,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 326,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 327,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 328,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 329,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 330,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 331,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 332,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 333,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 334,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 335,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 336,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 337,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 338,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 339,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 340,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 341,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 342,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 343,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 344,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 345,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 346,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 347,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 348,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 349,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 350,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 351,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 352,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 353,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 354,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 355,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 356,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 357,
+    "category": "Preventive Care",
+    "source_citation": "Indian Society of Hypertension",
+    "tip_en": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_hi": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "tip_gu": "Monitoring blood pressure twice a month helps detect asymptomatic hypertension early before complications occur.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 358,
+    "category": "Nutrition & Hydration",
+    "source_citation": "World Health Organization (WHO)",
+    "tip_en": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_hi": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "tip_gu": "Including colorful vegetables daily provides essential polyphenols that defend cells against oxidative stress.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 359,
+    "category": "Cardiovascular Health",
+    "source_citation": "Diabetes Research Clinical Practice",
+    "tip_en": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_hi": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "tip_gu": "Walking for 10 minutes after meals assists post-prandial glucose uptake into muscles, reducing insulin surges.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 360,
+    "category": "Sleep & Recovery",
+    "source_citation": "Circadian Biology Review",
+    "tip_en": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_hi": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "tip_gu": "Ensure bedroom darkness by eliminating blue light 45 minutes before sleep to optimize melatonin secretion.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 361,
+    "category": "Nutrition & Hydration",
+    "source_citation": "WHO Guidelines on Hydration",
+    "tip_en": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_hi": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "tip_gu": "Drinking a glass of water first thing in the morning aids metabolic activation and cellular rehydration.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 362,
+    "category": "Cardiovascular Health",
+    "source_citation": "Indian Council of Medical Research (ICMR)",
+    "tip_en": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_hi": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "tip_gu": "Aim for 150 minutes of moderate aerobic activity weekly to strengthen heart muscle and arterial elasticity.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 363,
+    "category": "Sleep & Recovery",
+    "source_citation": "National Sleep Foundation",
+    "tip_en": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_hi": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "tip_gu": "Consistent sleep and wake times calibrate your circadian clock, significantly improving immune function.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 364,
+    "category": "Nutrition & Hydration",
+    "source_citation": "MoHFW India Healthy Diet Advisory",
+    "tip_en": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_hi": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "tip_gu": "Replacing refined sugars with complex carbohydrates stabilizes blood glucose spikes throughout the day.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 365,
+    "category": "Ergonomics",
+    "source_citation": "Ergonomics & Occupational Health Council",
+    "tip_en": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_hi": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "tip_gu": "Taking short 2-minute movement breaks every 30 minutes of sitting mitigates vascular strain and back stiffness.",
+    "is_verified": true
+  },
+  {
+    "day_of_year": 366,
+    "category": "Mental Wellness",
+    "source_citation": "Mental Wellness Institute",
+    "tip_en": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_hi": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "tip_gu": "Mindful 4-7-8 breathing exercises stimulate the parasympathetic nervous system, lowering acute cortisol levels.",
+    "is_verified": true
+  }
+]
